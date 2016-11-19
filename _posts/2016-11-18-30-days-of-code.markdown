@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "30 Day Code Challenge + Day 1"
+subtitle: "This Jekyll site counts, right?"
+date:   2016-11-18 8:00:00
+categories: [code]
+---
+
+**Mood**: It's wintery, even in San Francisco. Beanie-and-scarf weather, my feet are always cold, and the sun goes to bed before 5pm. Which means I want to go to bed before 5pm. The animals are extra lazy, so they're no help. I'm tired all. the. time.
+
+![](/assets/img/sad.gif)
+
+I've decided to arbitrarily kick off a **30 Day Code Challenge** to bust me out of my 2016 Winter Funk.
+
+I need the motivation to exercise my creativity. I need the time pressure. I need the near-instant gratification of **deploying something whimsy, useful, or otherwise tangible every day for 30 days.**
+
+Easy? Hard? I have no idea. Probably hard. I'm about to find out.
+
+____
+
+## Day 1
+**Project**: Personal website // Jekyll blog  
+**Tech**: Jekyll, GitHub Pages, DNS  
+**Link**: [abigailyoung.com](http://abigailyoung.com)   
+**Code**: [github](http://github.com/abbyoung/abbyoung.github.io)  
+**Notes**: I've messed around a bit with [Jekyll](http://jekyllrb.com) in the past, but never made it to deployment. I kept wanting to use it for different projects that it just wasn't designed to handle, but now it's fulfilling its destiny as a static blog generator. I'm even using GitHub Pages to host, so I'm real by-the-book on this one.  
+
+Now that I finally have my Ruby installations under control with RVM, and I untangled a rat's nest of Ruby/path-related fuckery a couple weeks ago, the entire process was easy. For once, no problems installing, editing, deploying. Good job, Jekyll team.
