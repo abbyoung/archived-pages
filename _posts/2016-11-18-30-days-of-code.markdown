@@ -6,7 +6,7 @@ date:   2016-11-18 8:00:00
 categories: [code]
 ---
 
-**Mood**: It's wintery, even in San Francisco. Beanie-and-scarf weather, my feet are always cold, and the sun goes to bed before 5pm. Which means I want to go to bed before 5pm. The animals are extra lazy, so they're no help. I'm tired all. the. time.
+**Mood**: It's wintry, even in San Francisco. Beanie-and-scarf weather, my feet are always cold, and the sun goes to bed before 5pm. Which means I want to go to bed before 5pm. The animals are extra lazy, so they're no help. I'm tired all. the. time.
 
 ![](/assets/img/sad.gif)
 
