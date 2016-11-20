@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "30 Day Code Challenge + Day 1"
+title:  "30 Day Code Challenge - Day 1"
 subtitle: "This Jekyll site counts, right?"
 date:   2016-11-18 8:00:00
 categories: [code]
@@ -19,10 +19,10 @@ Easy? Hard? I have no idea. Probably hard. I'm about to find out.
 ____
 
 ## Day 1
-**Project**: Personal website // Jekyll blog  
+**Project**: [Personal website](http://abigailyoung.com) // Jekyll blog  
 **Tech**: Jekyll, GitHub Pages, DNS  
-**Link**: [abigailyoung.com](http://abigailyoung.com)   
 **Code**: [github](http://github.com/abbyoung/abbyoung.github.io)  
-**Notes**: I've messed around a bit with [Jekyll](http://jekyllrb.com) in the past, but never made it to deployment. I kept wanting to use it for different projects that it just wasn't designed to handle, but now it's fulfilling its destiny as a static blog generator. I'm even using GitHub Pages to host, so I'm real by-the-book on this one.  
+
+I've messed around a bit with [Jekyll](http://jekyllrb.com) in the past, but never made it to deployment. I kept wanting to use it for different projects that it just wasn't designed to handle, but now it's fulfilling its destiny as a static blog generator. I'm even using GitHub Pages to host, so I'm real by-the-book on this one.  
 
 Now that I finally have my Ruby installations under control with RVM, and I untangled a rat's nest of Ruby/path-related fuckery a couple weeks ago, the entire process was easy. For once, no problems installing, editing, deploying. Good job, Jekyll team.
